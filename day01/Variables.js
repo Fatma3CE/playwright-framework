@@ -28,7 +28,7 @@ console.log("----------------------------------------------");
 
 const PI =3.14;
 //PI=5.25; 
-/* when we use let keyword we can reassign a value to the valuable 
+/* when we use let keyword we can reassign a value to the variable 
  but if we want it to be unchangable we need to use const keyword
  IT SHOULD BE ALL UPPERCASE*/
  console.log(PI);
